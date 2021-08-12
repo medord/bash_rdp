@@ -1,0 +1,8 @@
+[
+  {
+    "ip": "yourip",
+    "username": "yourusername",
+    "password": "youpassword",
+    "fileUrl": "yourfile_url"
+  }
+]
